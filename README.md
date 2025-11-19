@@ -75,7 +75,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vipinjaiswal2003/">
+  <a href="https://www.linkedin.com/in/vipinkrjaiswal">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/vipinjaiswal2003">
